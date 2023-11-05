@@ -1,7 +1,8 @@
 <h3 align="center">Curso PHP 8 desde cero (Actualizado)</h3>
 
 <h3 align="left">Ubicacion del Proyecto en XAMPP:</h3>
-![Ubicacion_del_proyecto.](https://github.com/Aldopuello1999/Curso_PHP/assets/72235838/51330c64-911e-488e-963a-9ec5d79b17ab)
+
+<img width="599" alt="Captura" src="https://github.com/Aldopuello1999/Curso_PHP/assets/72235838/feacee00-35fa-4f7d-bf5c-136e84138ff8" caption="Ubicacion del Proyecto en XAMPP">
 
 
 <h3 align="left">Languages and Tools:</h3>
